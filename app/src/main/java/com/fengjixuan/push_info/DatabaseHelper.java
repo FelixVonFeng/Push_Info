@@ -1,8 +1,5 @@
 package com.fengjixuan.push_info;
 
-/**
- * Created by felix on 17-5-13.
- */
 import android.content.Context ;
 import android.database.sqlite.SQLiteDatabase ;
 import android.database.sqlite.SQLiteDatabase.CursorFactory ;
